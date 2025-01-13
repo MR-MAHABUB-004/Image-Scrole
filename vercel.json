@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "image-corousel.html": "/" }
+    { "source": "/(.*)", "destination": "/" }
   ]
 }
